@@ -24,10 +24,10 @@ This is a C# bank management system project that allows users to perform various
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/bank-management-system.git
+    git clone https://github.com/arghomitra/bank
     ```
 
-2. Open the solution file `BankManagementSystem.sln` in Visual Studio.
+2. Open the solution file `Bank_project.sln` in Visual Studio.
 
 3. Build the solution.
 
