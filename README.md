@@ -60,3 +60,5 @@ This is a C# bank management system project that allows users to perform various
 ## License
 
 This project is licensed under the MIT License 
+
+For a clear understanding, please check out this demonstration presentation: `https://www.canva.com/design/DAFmYcTlVEI/jYsOui_qkgAwiDWUSSldkw/view?utm_content=DAFmYcTlVEI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink`.
